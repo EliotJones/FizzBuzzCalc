@@ -21,7 +21,7 @@ This is a joke application and aims to be among the worst ways to solve the comm
 
 An example of the output is shown below:
 
-![Application run through to 15][picture goes here].
+![Application run through to 15](https://raw.githubusercontent.com/EliotJones/FizzBuzzCalc/master/docs/example-output.png)
 
 ## Disclaimers ##
 + **Running The Application Will Capture The Mouse For The Duration Of The Run.**.
