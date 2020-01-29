@@ -23,6 +23,8 @@ An example of the output is shown below:
 
 ![Application run through to 15](https://raw.githubusercontent.com/EliotJones/FizzBuzzCalc/master/docs/example-output.png)
 
+You can also watch in action here: https://www.youtube.com/watch?v=L-vJ6ov4Cac&feature=youtu.be
+
 ## Disclaimers ##
 + **Running The Application Will Capture The Mouse For The Duration Of The Run.**.
 + **Running The Application Will Close Any Open Calculator Processes.**
